@@ -1,3 +1,3 @@
 all:
-	g++ -o racelife main.cpp -lgb
+	g++ -o racelife src/main.cpp -lgb
 	chmod +x racelife
